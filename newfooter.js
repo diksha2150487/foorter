@@ -4,7 +4,7 @@ document.write(`<footer>
       <div class="row">
         <div class="footer-col">
           <img
-            src="./images/WhatsApp Image 2023-06-25 at 11.13.13 PM.jpeg"
+            src="./images/new.jpeg"
             id="footer_logo"
           />
           <p>
@@ -90,8 +90,8 @@ document.write(`<footer>
       <hr class="footer_divider" />
       <div class="copyright">
         <p class="foot_copy">
-          © Copyright Auxible India Pvt Ltd. All Rights Reserved | Designed by
-          kusheldigi solution
+        Copyrights © 2021 Sagar sharma Design. All rights reserved.
+          
         </p>
         <ul id="one">
           <li>
@@ -108,4 +108,3 @@ document.write(`<footer>
     </div>
   </section>
     </footer>`);
-

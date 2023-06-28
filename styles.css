@@ -189,9 +189,8 @@ nav ul li ul li a {
   background-color: #ff0066;
   border: none;
 }
-/* ****************************************************************************** */
+/* ************************** */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
-
 body {
   line-height: 1.5;
   font-family: "Poppins", sans-serif;
@@ -204,7 +203,7 @@ body {
 
 .row {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 ul {
@@ -214,19 +213,20 @@ ul {
 .footer {
   position: absolute;
   background-image: url(./images/Group\ 67778.png);
-  padding: 70px 50px 70px 110px;
+  padding: 60px 60px 70px 110px;
   padding-bottom: 20px;
 }
 
 .footer-col {
-  width: 70%;
+  width: 100%;
 
   /* background-color: #bbbbbb; */
   /* margin: 1px; */
 }
+
 #footer_logo {
-  width: 220px;
-  height: 63px;
+  width: 200px;
+  height: 53px;
 }
 .footer-col h4 {
   /* font-size: 14px; */
@@ -236,18 +236,18 @@ ul {
   font-weight: 600;
   position: relative;
   margin-left: 42px;
-  font-size: 17px;
+  font-size: 12px;
   /* line-height: 30px; */
   /* letter-spacing: 0em; */
   text-align: left;
 }
 .footer-col p {
   color: #bbbbbb;
-  padding-top: 10px;
+  margin-top: 17px;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 13px;
+  font-size: 11px;
   font-weight: 200;
-  line-height: 12px;
+  line-height: 17px;
   letter-spacing: 0em;
   text-align: left;
 }
@@ -262,7 +262,7 @@ ul {
 }
 #abcd {
   margin: 3px;
-  margin-right: 10px;
+  /* margin-right: px; */
   color: white;
   font-size: 8px;
 }
@@ -289,7 +289,7 @@ ul {
 }
 
 .footer-col ul li a {
-  font-size: 12px;
+  font-size: 10px;
   text-transform: capitalize;
   color: #ffffff;
   text-decoration: none;
@@ -304,13 +304,13 @@ ul {
   padding-left: 8px;
 }
 .social-links {
-  margin-top: 45px;
+  margin-top: 35px;
 }
 .foot_copy {
   color: #bbbbbb;
   margin-top: 2rem;
   font-family: Nunito Sans;
-  font-size: 12px;
+  /* font-size: 12px; */
   font-weight: 400;
   line-height: 22px;
   letter-spacing: 0em;
@@ -321,14 +321,17 @@ ul {
   height: 35px;
   width: 35px;
   background-color: #fff;
-  margin: 0 10px 10px 0;
+  margin-right: 10px;
   text-align: center;
-  line-height: 40px;
+  line-height: 32px;
   border-radius: 50%;
   /* color: #ffffff; */
   transition: all 0.5s ease;
 }
-
+.footer-col .social-links a i {
+  font-size: 12px;
+  padding: 5px;
+}
 .footer-col .social-links a:hover {
   color: #24262b;
   background-color: #f2f2f2f2;
