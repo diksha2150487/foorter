@@ -5,7 +5,7 @@ template.innerHTML = `<header>
 <section class="navigation">
   <div class="nav-container">
     <div class="brand">
-      <a><img src="./images/new.jpeg" alt="logo" class="nav_logo" /></a>
+      <a><img src="./images/Asset-3@2x-(2).png" alt="logo" class="nav_logo" /></a>
     </div>
     <nav>
       <div class="nav-mobile">

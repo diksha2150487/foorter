@@ -4,7 +4,7 @@ document.write(`<footer>
       <div class="row">
         <div class="footer-col">
           <img
-            src="./images/new.jpeg"
+            src="./images/Asset-3@2x-(2).png"
             id="footer_logo"
           />
           <p>
@@ -79,7 +79,7 @@ document.write(`<footer>
                 <input
                   class="form-input"
                   type="email"
-                  placeholder="Email Addres"
+                  placeholder="Email Address"
                 />
                 <button type="submit" class="form-submit">Enter</button>
               </fieldset>
