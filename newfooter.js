@@ -4,8 +4,7 @@ document.write(`<footer>
       <div class="row">
         <div class="footer-col">
           <img
-            src="./images/Asset-3@2x-(2).png"
-            id="footer_logo"
+            src="./images/Asset-3@2x-(2).png" alt='img' id='footer_logo'
           />
           <p>
             Core values are the fundamental beliefs of a person or
@@ -81,7 +80,7 @@ document.write(`<footer>
                   type="email"
                   placeholder="Email Address"
                 />
-                <button type="submit" class="form-submit">Enter</button>
+                <button type="submit" class="form-submit">Submit</button>
               </fieldset>
             </form>
           </div>
@@ -90,8 +89,8 @@ document.write(`<footer>
       <hr class="footer_divider" />
       <div class="copyright">
         <p class="foot_copy">
-        Copyrights © 2021 Sagar sharma Design. All rights reserved.
-          
+          © Copyright Auxible India Pvt Ltd. All Rights Reserved | Designed by
+          kusheldigi solution
         </p>
         <ul id="one">
           <li>
